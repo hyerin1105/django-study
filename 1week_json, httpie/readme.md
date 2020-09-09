@@ -49,3 +49,4 @@
     -HTML form 형식의 요청:
         http --form POST 대상주소 GET인자==값 POST인자=값
     (GET, POST인자가 있으면 쓰고 없으면 안 씀.)
+
