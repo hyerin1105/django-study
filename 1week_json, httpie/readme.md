@@ -51,7 +51,7 @@
     (GET, POST인자가 있으면 쓰고 없으면 안 씀.)
     
     
-    << 1. JSON >>
+<< 1. JSON >>
 - JSON을 딕셔너리로 전송할 때: 문자열로 변환해서 전송
 
 << 2. Http Request & Response >>
